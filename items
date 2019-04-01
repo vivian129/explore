@@ -1,0 +1,5 @@
+//database=tasks
+tables=users(id,names,email,password)
+tables=items(id,tittle,status,date)
+
+php file-items.php having a form to add items to the database
